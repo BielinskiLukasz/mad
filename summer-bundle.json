@@ -24,18 +24,6 @@
       "label": "TheMADCartographer | Summer Bundle",
       "path": "/packs/mad-summerbun-journals.db",
       "entity": "JournalEntry"
-    },
-    {
-      "name": "mad-summerbun-items",
-      "label": "TheMADCartographer | Summer Bundle",
-      "path": "/packs/mad-summerbun-items.db",
-      "entity": "Item"
-    },
-    {
-      "name": "mad-summerbun-actors",
-      "label": "TheMADCartographer | Summer Bundle",
-      "path": "/packs/mad-summerbun-actors.db",
-      "entity": "Actor"
     }
   ],
   "url": "https://www.themadcartographer.com",
