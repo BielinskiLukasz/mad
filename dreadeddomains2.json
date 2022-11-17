@@ -47,6 +47,6 @@
     }
   ],
   "url": "https://www.themadcartographer.com",
-  "manifest": "https://themadcartographer.com/downloads/theme/14-dreadeddomains2-kfn904nfnf/module.json",
+  "manifest": "https://raw.githubusercontent.com/BielinskiLukasz/mad/main/dreadeddomains2.json",
   "download": "https://themadcartographer.com/downloads/theme/14-dreadeddomains2-kfn904nfnf/MAD-FVTT-Map-Pack-DreadedDomains2.zip"
 }
