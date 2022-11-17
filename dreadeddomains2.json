@@ -44,18 +44,6 @@
       "label": "TheMADCartographer | Dreaded Domains 2",
       "path": "/packs/mad-dreadeddomains2-journals.db",
       "entity": "JournalEntry"
-    },
-    {
-      "name": "mad-dreadeddomains2-items",
-      "label": "TheMADCartographer | Dreaded Domains 2",
-      "path": "/packs/mad-dreadeddomains2-items.db",
-      "entity": "Item"
-    },
-    {
-      "name": "MAD-dreadeddomains2-actors",
-      "label": "TheMADCartographer | Dreaded Domains 2",
-      "path": "/packs/mad-dreadeddomains2-actors.db",
-      "entity": "Actor"
     }
   ],
   "url": "https://www.themadcartographer.com",
